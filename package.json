@@ -54,6 +54,7 @@
   },
   "devDependencies": {
     "@storybook/addon-actions": "^6.5.13",
+    "@storybook/addon-coverage": "0.0.5",
     "@storybook/addon-essentials": "^6.5.13",
     "@storybook/addon-interactions": "^6.5.13",
     "@storybook/addon-links": "^6.5.13",
